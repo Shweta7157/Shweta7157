@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a Software Developer working on MEAN, MERN, and full stack development. I have experience in HTML, CSS(SASS, SCSS, Bootstrap, Tailwind), Javascript, Typescript, React, Redux, React Native, and Angular.
+- 🔭 I’m a Sr.Software Developer working on MEAN, MERN, and full stack development. I have experience in HTML, CSS(SASS, SCSS, Bootstrap, Tailwind), Javascript, Typescript, React, Redux, React Native, and Angular.
 - 🌱 I love digging into new Technologies. I’m currently learning Node, Express, and MongoDB.
 
 
