@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m a Sr. Software Developer working on MEAN, MERN, and full stack development. I have experience in HTML, CSS(SASS, SCSS, Bootstrap, Tailwind), Javascript, Typescript, React, Redux, React Native, and Angular.
-- 🌱 I love digging into new Technologies. I’m currently learning Node, Express, and MongoDB.
+- 🔭 I’m a seasoned Senior Software Developer specializing in Frontend and Full-stack development. With extensive experience in HTML, CSS (including SASS, SCSS, Bootstrap, and Tailwind), JavaScript, TypeScript, React, Redux, React Native, and Angular, I'm adept at crafting dynamic and responsive web applications.
+- 🌱 Passionate about innovation, I'm constantly exploring new technologies to stay ahead of the curve. Currently, I'm immersing myself in the exciting realms of Next.js and Node.js, fueling my drive to create cutting-edge solutions and elevate user experiences.
 
 
 
