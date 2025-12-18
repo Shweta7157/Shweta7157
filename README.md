@@ -5,6 +5,18 @@
 
 Check Out My Portfolio: https://shwetap.netlify.app
 
+
+### Hi there 👋
+
+- 🔭 Senior Software Developer with expertise in Frontend & Full-stack (HTML, CSS, Tailwind, JavaScript, TypeScript, React, Redux, React Native).  
+- 🌱 Currently diving into Next.js to build modern, scalable solutions.  
+
+🚀 Check out my portfolio: [shwetap.netlify.app](https://shwetap.netlify.app)
+
+
+
+
+
 <!--
 **Shweta7157/Shweta7157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
