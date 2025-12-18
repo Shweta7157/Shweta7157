@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Senior Software Developer with expertise in Frontend & Full-stack (HTML, CSS, Tailwind, JavaScript, TypeScript, React, Redux, React Native).  
+- 🔭 Senior Software Developer with expertise in Frontend (HTML, CSS, Tailwind, JavaScript, TypeScript, React, Redux, React Native).  
 - 🌱 Currently diving into Next.js to build modern, scalable solutions.  
 
 🚀 Check out my portfolio: [shwetap.netlify.app](https://shwetap.netlify.app)
