@@ -1,21 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m a seasoned Senior Software Developer specializing in Frontend and Full-stack development. With extensive experience in HTML, CSS (including SASS, SCSS, Bootstrap, and Tailwind), JavaScript, TypeScript, React, Redux, React Native, and Angular, I'm adept at crafting dynamic and responsive web applications.
-- 🌱 Passionate about innovation, I'm constantly exploring new technologies to stay ahead of the curve. Currently, I'm immersing myself in the exciting realms of Next.js and Node.js, fueling my drive to create cutting-edge solutions and elevate user experiences.
-
-Check Out My Portfolio: https://shwetap.netlify.app
-
-
-### Hi there 👋
-
 - 🔭 Senior Software Developer with expertise in Frontend & Full-stack (HTML, CSS, Tailwind, JavaScript, TypeScript, React, Redux, React Native).  
 - 🌱 Currently diving into Next.js to build modern, scalable solutions.  
 
 🚀 Check out my portfolio: [shwetap.netlify.app](https://shwetap.netlify.app)
-
-
-
-
 
 <!--
 **Shweta7157/Shweta7157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
